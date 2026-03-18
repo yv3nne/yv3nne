@@ -1,10 +1,10 @@
 # yv3nne
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yv3nne&layout=compact&theme=transparent&hide_border=true&langs_count=4)](https://github.com/yv3nne/github-readme-stats)
+
 **M.Sc. Computer Science Candidate | Munich/Zurich** *Focus: Data Intelligence • System Security • High-Performance Computing*
 
 I am a systems-oriented Computer Scientist specializing in the bridge between high-level Machine Learning and low-level Hardware Optimization. My technical objective is the development of robust, scalable architectures that prioritize mathematical rigor and memory efficiency.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yv3nne&layout=compact&theme=transparent&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Key Graduate Coursework
 | Focus Area | Core Competencies & Advanced Topics |
@@ -17,7 +17,7 @@ I am a systems-oriented Computer Scientist specializing in the bridge between hi
 | **Process Mining** | Automated Process Discovery, Conformance Checking, Event Logs |
 
 ### Featured Projects
-| Computer Vision & API Integration | Machine Learning & Optimization |
+| Computer Vision & API Integration | Machine Learning & Data Science |
 | :--- | :--- |
 | [![Google Vision API](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=googlevisionapi&theme=transparent&hide_border=true)](https://github.com/yv3nne/googlevisionapi) | [![Volcano Data](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=exploratory-volcano-data&theme=transparent&hide_border=true)](https://github.com/yv3nne/exploratory-volcano-data) |
 | [![Synthaiser](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=cross-entropy&theme=transparent&hide_border=true)](https://github.com/yv3nne/cross-entropy) | [![Space Path](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=spacepath&theme=transparent&hide_border=true)](https://github.com/yv3nne/spacepath) | 
