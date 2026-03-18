@@ -4,7 +4,7 @@
 
 **M.Sc. Computer Science Candidate | Munich/Zurich** *Focus: Data Intelligence • System Security • High-Performance Computing*
 
-I am a systems-oriented Computer Scientist specializing in the bridge between high-level Machine Learning and low-level Hardware Optimization. My technical objective is the development of robust, scalable architectures that prioritize mathematical rigor and memory efficiency.
+I am a systems-oriented Computer Scientist specializing in the bridge between high-level Machine Learning and low-level Hardware Optimization.
 
 ### Key Graduate Coursework
 | Focus Area | Core Competencies & Advanced Topics |
