@@ -9,17 +9,18 @@
 <br>
 
 ### Stack & Tooling
-**Primary:** `Python` `C++` `PyTorch` `Git`
+**Primary:** `Python` `C++` `PyTorch` `Git` `Bash` `C`
 **Frameworks:** `Pandas` `Transformers` `Seaborn` `Matplotlib` `Sklearn` `Numpy`
-**Exposure:** `CUDA` `C` `Docker` `Linux` `Java` `C#`
+**Exposure:** `CUDA` `Docker` `Linux` `Java` `C#` `AWS` `Google Cloud`
 
 <br>
 
 ### Selected Coursework
 * **Machine Learning:** Deep Learning, Preference Learning (RLHF).
 * **Computer Vision:** Segmentation, Transformer, Object Detection.
-* **Systems:** IT Security, Software Testing, Process Mining.
-* **Infrastructure:** Grid/Cloud, GPU Data Transfer.
+* **Systems:** IT Security, Software Testing.
+* **Data:** Data Mining, Process Mining.
+* **Infrastructure:** Grid/Cloud, HPC, CUDA GPU Data Management.
 
 <br>
 
