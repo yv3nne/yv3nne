@@ -4,7 +4,7 @@
 &nbsp;
 
 ### Technical Metrics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yv3nne&layout=compact&theme=transparent&hide_border=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yv3nne&layout=compact&theme=dark&hide_border=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
