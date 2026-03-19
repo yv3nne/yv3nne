@@ -16,7 +16,7 @@
 <br>
 
 ### Selected Coursework
-* **Machine Learning:** Deep Learning, Transformers, RL, CNNs, RNNs, Pretraining.
+* **Machine Learning:** Deep Learning, Transformers, RL, CNNs, RNNs, Pretraining, LoRA.
 * **Computer Vision:** Segmentation, Data Augmentation, Signal Processing.
 * **Systems:** IT Security, Reverse Engineering, Software Testing.
 * **Data:** Data Mining, Process Mining, Preference Learning.
