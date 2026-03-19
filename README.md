@@ -16,8 +16,8 @@
 <br>
 
 ### Selected Coursework
-* **Machine Learning:** Deep Learning, Preference Learning (RLHF).
-* **Computer Vision:** Segmentation, Transformer, Object Detection.
+* **Machine Learning:** Deep Learning, Preference Learning.
+* **Computer Vision:** Segmentation, Transformer, Signal Processing.
 * **Systems:** IT Security, Software Testing.
 * **Data:** Data Mining, Process Mining.
 * **Infrastructure:** Grid/Cloud, HPC, CUDA GPU Data Management.
