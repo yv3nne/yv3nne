@@ -10,8 +10,8 @@
 
 ### Stack & Tooling
 **Primary:** `Python` `C++` `PyTorch` `Git`
-**Frameworks:** `Pandas` `Transformers`
-**Exposure:** `CUDA` `C` `Docker` `Linux`
+**Frameworks:** `Pandas` `Transformers` `Seaborn` `Matplotlib` `Sklearn` `Numpy`
+**Exposure:** `CUDA` `C` `Docker` `Linux` `Java` `C#`
 
 <br>
 
