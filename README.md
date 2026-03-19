@@ -1,5 +1,5 @@
 # Yvonne C.
-**M.Sc. Computer Science Candidate**
+**M.Sc. Computer Science**
 
 &nbsp;
 
@@ -9,9 +9,9 @@
 <br>
 
 ### Stack & Tooling
-**Primary:** `Python` `C++` `PyTorch` `Git` `Bash` `C`
-**Frameworks:** `Pandas` `Transformers` `Seaborn` `Matplotlib` `Sklearn` `Numpy`
-**Exposure:** `CUDA` `Docker` `Linux` `Java` `C#` `AWS` `Google Cloud`
+**Primary:** `Python` `C++` `PyTorch` `Git` `Bash` `C`...
+**Frameworks:** `Pandas` `Transformers` `Seaborn` `Matplotlib` `Sklearn` `Numpy`...
+**Exposure:** `CUDA` `Docker` `Linux` `Java` `C#` `AWS` `Google Cloud` `Unsloth`...
 
 <br>
 
