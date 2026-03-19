@@ -21,11 +21,3 @@
 * **Systems:** IT Security, Software Testing.
 * **Data:** Data Mining, Process Mining.
 * **Infrastructure:** Grid/Cloud, HPC, CUDA GPU Data Management.
-
-<br>
-
-### Projects
-| | |
-| :--- | :--- |
-| [![font finder](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=google-font-finder&theme=transparent&hide_border=true)](https://github.com/yv3nne/googlevisionapi) |[![synthaiser](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=cross-entropy&theme=transparent&hide_border=true)](https://github.com/yv3nne/cross-entropy) |
-| [![SpacePath](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=spacepath&theme=transparent&hide_border=true)](https://github.com/yv3nne/spacepath)  | [![AutoParam Model](https://github-readme-stats.vercel.app/api/pin/?username=yv3nne&repo=autoparam-model&theme=transparent&hide_border=true)](https://github.com/yv3nne/autoparam-model) 
