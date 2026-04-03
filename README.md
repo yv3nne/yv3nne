@@ -3,11 +3,6 @@
 
 &nbsp;
 
-### Technical Metrics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yv3nne&layout=compact&theme=dark&hide_border=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 ### Stack & Tooling
 **Primary:** `Python` `C++` `PyTorch` `Git` `Bash` `C`...
 **Frameworks:** `Pandas` `Transformers` `Seaborn` `Matplotlib` `Sklearn` `Numpy`...
