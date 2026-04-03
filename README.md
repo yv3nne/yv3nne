@@ -1,4 +1,4 @@
-# Yvonne C.
+# Yvonne Creter
 **M.Sc. Computer Science**
 
 &nbsp;
